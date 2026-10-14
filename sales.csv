@@ -1,0 +1,2 @@
+TransactionID,ProductID,ProductName,QuantitySold,TotalPrice,Date
+TRX0001,P001,Milk,1,40.0,2026-10-14 15:47
